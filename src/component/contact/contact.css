@@ -1,0 +1,77 @@
+.contact{
+    height: 135vh;
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+    background-color: #222;
+
+}
+.contact h1{
+    color: white;
+    font-weight: lighter;
+    padding: 40px 0;
+}
+.contact-form{
+    display: flex;
+    justify-content: center;
+}
+
+
+.form{
+    height: 110vh;
+    width: 50%;
+    /* border: 2px solid red; */
+    text-align: start;
+    margin-right: 30px;
+
+}
+#hding{
+    font-size: 30px;
+    padding-bottom: 40px;
+    color: white;
+}
+
+input{
+    display: block;
+    color: white;
+    background-color: #333333;
+    /* height: 40px; */
+    margin: 10px 0;
+    padding: 15px 10px;
+    border: none;
+    width: 100%;
+    font-size: 16px;
+    border-radius: 7px;
+    /* padding: 20px; */
+}
+textarea{
+    height: 270px;
+    width: 100%;
+    padding: 20px 10px;
+    background-color: #333333;
+    border: none;
+    font-size: 16px;
+    
+}
+.detail{
+    height: 90vh;
+    width: 30%;
+    /* border: 2px solid red; */
+    text-align: start;
+    margin-left: 30px;
+}
+.detail p{
+    color: #2c3e50;
+    padding-bottom: 25px;
+
+}
+#sub-heading{
+    color: blueviolet;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+hr{
+    width: 80%;
+    margin-left: 10%;
+}

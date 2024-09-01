@@ -1,0 +1,43 @@
+.service{
+    height: 110vh;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: #222;
+}
+.service h1{
+    text-align: center;
+    padding: 30px;
+    /* font-size: 50px; */
+    color: white;
+    font-weight: lighter;
+}
+.services-item{
+    height: 70vh;
+    width: 100%;
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.item1{
+    height: 60vh;
+    width: 30%;
+    /* border: 2px solid red;  */
+    text-align: center;
+    padding-top: 20px ;  
+    background-color: rgb(28, 27, 27);
+    border-radius: 10px;
+}
+
+.item1 h3{
+    padding: 10px 0;
+    color: white;
+}
+.item1 p{
+    font-size: 18px;
+    color: rgb(171, 170, 170); 
+    font-weight: 600;
+
+}

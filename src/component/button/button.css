@@ -1,0 +1,19 @@
+ 
+
+
+button{
+    border: none;
+    border-radius: 10px;
+    margin: 10px 20px;
+    padding: 10px 20px;
+    background-color: blueviolet;
+    cursor: pointer;
+    color: white;
+}
+
+button:hover{
+
+    background-color: black;
+    color: white;
+    border-radius: 10px 0;
+}
